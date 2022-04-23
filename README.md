@@ -26,3 +26,9 @@ Tamanhos utilizados no desenvolvimento responsivo.
     .....
   }
 ```
+
+## Bibliotecas JS
+
+**Glide.js** Slider JavaScript para criar carrosséis modernos e com deslizamento suave.
+
+**Croppie** Um plugin JS para cortar Imagens rapidamente com diversas configurações.
