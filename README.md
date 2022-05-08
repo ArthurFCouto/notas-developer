@@ -3,9 +3,27 @@ Informações e curiosidades sobre front e back.
 
 ## Links
 
+**[@Unused-CSS](https://unused-css.com/)** Remove CSS desnecessário.
+
+**[@PurgeCSS](https://purgecss.com/)** Remove CSS desnecessário (2).
+
 **[@Shape Divider](https://www.shapedivider.app/)** Plataforma para estilização de CSS.
 
 **[@Spline Tool](https://spline.design/)** Plataforma para criar interações em 3D e adicionar aos sites (disponível também para ReactJs).
+
+## Bibliotecas JS
+
+**Glide.js** Slider JavaScript para criar carrosséis modernos e com deslizamento suave.
+
+**Croppie** Um plugin JS para cortar Imagens rapidamente com diversas configurações.
+
+## UI/UX
+
+**[@Checklist.design](https://www.checklist.design/)** Checklist com as melhores práticas para desenvolvimento.
+
+**[@Jitter Video](https://jitter.video/)** Plataforma de criação de vídeos e animações curtas, com diversos templates disponíveis.
+
+**[@Storytale](https://storytale.io/)** Plataforma ilustrações para usar no design.
 
 ## Comandos
 
@@ -75,12 +93,3 @@ Criando estilos alternados em uma lista de elementos:
   }
 ```
 
-## Bibliotecas JS
-
-**Glide.js** Slider JavaScript para criar carrosséis modernos e com deslizamento suave.
-
-**Croppie** Um plugin JS para cortar Imagens rapidamente com diversas configurações.
-
-## UI/UX
-
-**[@Jitter Video](https://jitter.video/)** Plataforma de criação de vídeos e animações curtas, com diversos templates disponíveis.
